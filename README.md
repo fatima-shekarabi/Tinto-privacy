@@ -1,4 +1,4 @@
-# Privacy Policy for Lumie
+# Privacy Policy for Tinto
 
 **Last updated:** June 7, 2026
 
@@ -9,12 +9,12 @@ If you have any questions about this Privacy Policy or you need any support, ple
 
 ## Overview
 
-Lumie ("the App") is an app that makes museum visits more exciting and engaging for children aged 6–11 — turning the experience into something fun and meaningful while they learn along the way. Developed by Redeem Team.
+Tinto ("the App") is an app that makes museum visits more exciting and engaging for children aged 6–11 — turning the experience into something fun and meaningful while they learn along the way. Developed by Redeem Team.
 We are committed to protecting your privacy.
 
 ## Data Collection
 
-**Lumie does not collect, transmit, or share any personal data.**
+**Tinto does not collect, transmit, or share any personal data.**
 
 All information saved in the app — including the child's chosen name, avatar, age, language preference, sound and appearance settings, painted artworks, original artwork photos, unlocked colors, and earned badges — is stored exclusively on your device, using Apple's UserDefaults framework for preferences and the device's local file storage for paintings, photos, and gallery data.
 
@@ -28,19 +28,19 @@ The camera permission is required for the core functionality of the app.
 
 ## Sharing
 
-Lumie lets a child (with a parent's help) share a painting, or their whole gallery, using Apple's standard share sheet — for example to save it to Photos or send it to a family member. This only happens when the user explicitly taps the share button, and the app has no control over, and does not track, what happens to the content after it leaves the share sheet.
+Tinto lets a child (with a parent's help) share a painting, or their whole gallery, using Apple's standard share sheet — for example to save it to Photos or send it to a family member. This only happens when the user explicitly taps the share button, and the app has no control over, and does not track, what happens to the content after it leaves the share sheet.
 
 ## Sound
 
-Lumie plays short sound effects using Apple's built-in system sounds to make the experience more fun. These sounds are bundled with iOS and do not involve recording, collecting, or transmitting any audio.
+Tinto plays short sound effects using Apple's built-in system sounds to make the experience more fun. These sounds are bundled with iOS and do not involve recording, collecting, or transmitting any audio.
 
 ## Third-Party Services
 
-Lumie does not use any third-party analytics, advertising networks, or tracking services, and has no third-party software dependencies.
+Tinto does not use any third-party analytics, advertising networks, or tracking services, and has no third-party software dependencies.
 
 ## Children's Privacy
 
-Lumie is designed specifically for children aged 6–11. The app does not collect any personal data from children or adults, displays no advertising, and contains no external links within the app itself.
+Tinto is designed specifically for children aged 6–11. The app does not collect any personal data from children or adults, displays no advertising, and contains no external links within the app itself.
 
 Parents and guardians can delete all app data at any time by deleting the app from the device.
 
